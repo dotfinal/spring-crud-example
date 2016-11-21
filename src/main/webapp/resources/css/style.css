@@ -1,0 +1,36 @@
+.searchbox {
+    margin: 30px auto;
+    width: 400px;
+    display: block;
+}
+
+.alert {
+    margin-top: 20px;
+    width: 1000px;
+}
+
+.table-responsive {
+    width: 1000px
+}
+
+form {
+    margin: 30px 0 0 0;
+    width: 400px;
+}
+
+.savebutton {
+    width: 200px;
+}
+
+.addbutton {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.next-button {
+    float: right;
+}
+
+.prev-button {
+    float: left;
+}
